@@ -1,0 +1,17 @@
+div#dialog{
+
+}
+
+div.takePictureWrapper{
+
+
+
+}
+
+div#webcam{
+	display: none;
+}
+
+#MakePhoto, #SavePhoto{
+	display:none;
+}
